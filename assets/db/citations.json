@@ -1,42 +1,46 @@
 [
     {
-        "author" : "Jordi Bonet",
-        "citation" : "Els errors més grans es fan a l'inici."
+        "author": "Jordi Bonet",
+        "citation": "Els errors m\u00e9s grans es fan a l'inici."
     },
     {
-        "author" : "Pol Ortín",
-        "citation" : "Bon dia Rosa!"
+        "author": "Pol Ort\u00edn",
+        "citation": "Bon dia Rosa!"
     },
     {
-        "author" : "Pol Ortín",
-        "citation" : "Bon dia Jordi!"
+        "author": "Pol Ort\u00edn",
+        "citation": "Bon dia Jordi!"
     },
     {
-        "author" : "Aleix Llusà",
-        "citation" : "Una porta és una mala interfície."
+        "author": "Aleix Llus\u00e0",
+        "citation": "Una porta \u00e9s una mala interf\u00edcie."
     },
     {
-        "author" : "Sebastià Vila",
-        "citation" : "No m'expliquis milongues!"
+        "author": "Sebasti\u00e0 Vila",
+        "citation": "No m'expliquis milongues!"
     },
     {
-        "author" : "Francisco del Águila",
-        "citation" : "Això (senyalant un paper) és una cadira."
+        "author": "Francisco del \u00c1guila",
+        "citation": "Aix\u00f2 (senyalant un paper) \u00e9s una cadira."
     },
     {
-        "author" : "Alex Roldán",
-        "citation" : "És que jo tinc un radioellaç..."
+        "author": "Alex Rold\u00e1n",
+        "citation": "\u00c9s que jo tinc un radioella\u00e7..."
     },
     {
-        "author" : "Rosa Giralt",
-        "citation" : "Pensava que em trobaríeu a faltar..."
+        "author": "Rosa Giralt",
+        "citation": "Pensava que em trobar\u00edeu a faltar..."
     },
     {
-        "author" : "Jack el destripador",
-        "citation" : "Anem per parts."
+        "author": "Jack el destripador",
+        "citation": "Anem per parts."
     },
     {
-        "author" : "Gabriel Quiñones",
-        "citation" : "Avui vinc a la uni."
+        "author": "Gabriel Qui\u00f1ones",
+        "citation": "Avui vinc a la uni."
+    },
+    {
+        "author": "Alex Rold\u00e1n",
+        "citation": "Ahir em funcionava, t'ho juro."
     }
 ]
