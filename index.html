@@ -16,6 +16,15 @@
         <link rel="stylesheet" href="assets/css/lineicons.css">
 		<link rel="stylesheet" href="assets/css/animate.css">
 		<link rel="stylesheet" href="assets/css/style.css">
+        <style>
+            h4 {
+                color: lightgray;
+                margin-bottom: -1.5em;
+                margin-top: 1.5em;
+                font-style: italic;
+                cursor: pointer;
+            }
+        </style>
     </head>
     <body>
         <main class="main-06" style="min-height:100vh">
@@ -29,8 +38,11 @@
                                     <h1 class="text-white wow fadeInUp" data-wow-delay=".2s">Ànims!<br/>Ja queda menys!</h1>
                                 </div>
                             </div>
-                            <div class="col-xl-7 col-lg-7">
-                                <div class="wow fadeInRight" data-wow-delay=".4s" data-countdown="2023/06/22"></div>
+                            <div class="col-xl-7 col-lg-7" id="countdowns">
+                                <div id="countdown_0" class="wow fadeInRight" data-wow-delay=".4s">
+                                    <h4>⮕ Fi del món</h4>
+                                    <div data-countdown="2100/06/22"></div>
+                                </div>
                             </div>
                             <div class="col-xl-5 col-lg-5" style="display: table;">
                                 <p class="wow fadeInLeft" style="display: table-cell;vertical-align: middle;" data-wow-delay=".4s" id="citation"></p>
