@@ -3,7 +3,7 @@ function setCitation(author, citation) {
     document.getElementById('citation').innerHTML = `${citation}<br/>-${author}`
 }
 
-fetch('assets/db/citations.json')
+fetch('assets/db/citations.json', {cache: "no-cache"})
   .then(response => response.json())
   .then(data => {
     const citations = data;

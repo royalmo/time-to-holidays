@@ -24,7 +24,7 @@ $(function () {
 		current_countdown = (current_countdown+1) % countdown_number;
 	}
 
-	fetch('assets/db/dates.json')
+	fetch('assets/db/dates.json', {cache: "no-cache"})
 	.then(response => response.json())
 	.then(data => {
 
